@@ -1,7 +1,9 @@
 # Reward Estimation for Variance Reduction in Deep Reinforcement Learning
 ## Installation
 
-We based our code primarily off of [ikostrikov's pytorch-rl repo](https://github.com/ikostrikov/pytorch-a2c-ppo-acktr). Follow installation instructions there.
+We based our code primarily off of [ikostrikov's pytorch-rl repo](https://github.com/ikostrikov/pytorch-a2c-ppo-acktr). Follow installation instructions there. 
+
+### Make sure to be using pytorch 0.3.1 
 
 ## How to run
 
